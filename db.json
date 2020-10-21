@@ -1,14 +1,165 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  {
+  "sku": "Product SKU",
+  "name": "Product Name",
+  "description": "Product Description. Rerum sint eos perspiciatis. Adipisci eos laboriosam quis qui qui error alias. Ut saepe in magnam qui modi nobis ipsum. Saepe minima reprehenderit ab omnis in et. Alias vel dicta voluptas voluptas at in. Quia voluptas vel perferendis accusantium dolorem inventore.",
+  "updated_at":{"date":"2020-10-12 09:15:55.000000","timezone_type":3,"timezone":"America\/Los_Angeles"},
+  "upc":"679359000254",
+  "msrp":0,
+  "date_released":{"date":"2007-01-01 00:00:00.000000",
+  "timezone_type":3,
+  "timezone":"America\/Los_Angeles"},
+  "qty_avail":6,
+  "gross_weight":0.4,
+  "size_length":0,
+  "size_width":0,
+  "size_circumference":0,
+  "wholesale_price":"65.83",
+  "MAP":0,
+  "special_features":"",
+  "how_to_use":"",
+  "how_to_clean":"",
+  "purpose":"",
+  "price":"65.83",
+  "manufacturer":"\"Manufacturer\"",
+  "cat":{
+    "cat_0":"\"Category 0\"",
+    "cat_1":"\"Category 1\"",
+    "cat_2":"\"Category 2\"",
+    "cat_3":"\"Category 3\"",
+    "cat_4":" ",
+    "cat_5":" ",
+    "cat_6":" ",
+    "cat_7":" ",
+    "cat_8":" ",
+    "cat_9":" ",
+    "cat_10":" ",
+    "cat_11":" "
+  },
+  "images":[
+    {
+      "filename":"test 1",
+      "width":404,
+      "height":500,
+      "filesize":108929,
+      "type":2,
+      "view":2,
+      "orientation":1
+    },
+    {
+      "filename":"",
+      "width":0,
+      "height":0,
+      "filesize":0,
+      "type":0,
+      "view":0,
+      "orientation":0
+    },
+    {
+      "filename":"",
+      "width":0,
+      "height":0,
+      "filesize":0,
+      "type":0,
+      "view":0,
+      "orientation":0
+    },
+    {
+      "filename":"",
+      "width":0,
+      "height":0,
+      "filesize":0,
+      "type":0,
+      "view":0,
+      "orientation":0
+    },
+    {
+      "filename":"",
+      "width":0,
+      "height":0,
+      "filesize":0,
+      "type":0,
+      "view":0,
+      "orientation":0
+    },
+    {
+      "filename":"",
+      "width":0,
+      "height":0,
+      "filesize":0,
+      "type":0,
+      "view":0,
+      "orientation":0
+    },
+    {
+      "filename":"",
+      "width":0,
+      "height":0,
+      "filesize":0,
+      "type":0,
+      "view":0,
+      "orientation":0
+    },
+    {
+      "filename":"",
+      "width":0,
+      "height":0,
+      "filesize":0,
+      "type":0,
+      "view":0,
+      "orientation":0
+    },
+    {
+      "filename":"",
+      "width":0,
+      "height":0,
+      "filesize":0,
+      "type":0,
+      "view":0,
+      "orientation":0
+    },
+    {
+      "filename":"",
+      "width":0,
+      "height":0,
+      "filesize":0,
+      "type":0,
+      "view":0,
+      "orientation":0
+    },
+    {
+      "filename":"",
+      "width":0,
+      "height":0,
+      "filesize":0,
+      "type":0,
+      "view":0,
+      "orientation":0
+    },
+    {
+      "filename":"",
+      "width":0,
+      "height":0,
+      "filesize":0,
+      "type":0,
+      "view":0,
+      "orientation":0
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "video":"",
+  "Color":"\"\"",
+  "Power":"\"AAA\"",
+  "Included":"\"\"",
+  "Feature":"\"\"",
+  "Flavor":"\"\"",
+  "Display":"\"Counter\"",
+  "Material":"\"\"",
+  "Packaging":"\"\"",
+  "Item Language":"\"\"",
+  "Country of Origin":"\"\"",
+  "Prop 65":"\"\"",
+  "Bulk":"\"\""
   }
 }
+
+
